@@ -29,38 +29,37 @@ export const posts = [
   {
     id: 2,
     title: "Machine Learning X Artificial Intelligence",
-    image_url:
-      "https://images.unsplash.com/photo-1593349480506-8433634cdcbe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    image_url: "https://images.unsplash.com/photo-1593349480506-8433634cdcbe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
     paragraphs: [
-      "Inteligência Artificial (IA) e Machine Learning (ML) são termos frequentemente usados juntos, mas possuem definições distintas:",
-
-      "IA é um campo amplo da ciência da computação que visa criar máquinas capazes de realizar tarefas que normalmente requerem inteligência humana, como raciocinar, aprender e resolver problemas. Abrange uma gama de técnicas, incluindo:",
-      
-      "Aprendizado de máquina;",
-      "Processamento de linguagem natural;",
-      "Visão computacional;",
-      "Robótica.",
-      
-      "Machine Learning é um subconjunto da IA que se concentra na capacidade das máquinas de aprender com dados sem serem explicitamente programadas. Isso é feito através de algoritmos que identificam padrões e fazem previsões a partir de dados. O ML é utilizado em diversas aplicações, como:",
-      
-      "Reconhecimento de imagem;",
-      "Tradução automática;",
-      "Análise de dados;",
-      "Recomendação de produtos;",
-      
-      "Em suma, IA é o objetivo final de criar máquinas inteligentes, enquanto o ML é uma ferramenta poderosa para alcançar esse objetivo.",
-      "IA abrange uma gama mais ampla de técnicas, enquanto o ML se concentra no aprendizado com dados.",
-      "IA pode ser aplicada a qualquer tarefa que requeira inteligência humana, enquanto o ML é mais adequado para tarefas que envolvem padrões e previsões.",
-      
-      "Exemplos:",
-      
-      "Um robô que usa visão computacional para navegar em seu ambiente é um exemplo de IA.",
-      "Um sistema que usa aprendizado de máquina para identificar spam em emails é um exemplo de ML.",
+      "Artificial Intelligence (AI) and Machine Learning (ML) are terms often used together, but they have distinct definitions:",
+  
+      "AI is a broad field of computer science that aims to create machines capable of performing tasks that typically require human intelligence, such as reasoning, learning, and problem-solving. It encompasses a range of techniques, including:",
+  
+      "• Machine learning;",
+      "• Natural language processing;",
+      "• Computer vision;",
+      "• Robotics;",
+  
+      "Machine Learning is a subset of AI that focuses on machines' ability to learn from data without being explicitly programmed. This is done through algorithms that identify patterns and make predictions from data. ML is used in various applications, such as:",
+  
+      "• Image recognition;",
+      "• Automatic translation;",
+      "• Data analysis;",
+      "• Product recommendation;",
+  
+      "• In summary, AI is the ultimate goal of creating intelligent machines, while ML is a powerful tool for achieving this goal.",
+      "• AI encompasses a broader range of techniques, while ML focuses on learning from data.",
+      "• AI can be applied to any task that requires human intelligence, while ML is more suitable for tasks involving patterns and predictions.",
+  
+      "Examples:",
+  
+      "• A robot that uses computer vision to navigate its environment is an example of AI.",
+      "• A system that uses machine learning to identify spam in emails is an example of ML.",
     ],
     featured: true,
     tags: ["artificial intelligence"],
     publishDate: "May 23, 2024",
-  },
+  },  
   {
     id: 3,
     title: "Machine Learning usage",
