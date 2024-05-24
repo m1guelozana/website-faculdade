@@ -59,6 +59,8 @@ const page = () => {
     },
   ];
 
+  const vai_tomar_no_cu = True;
+
   return (
     <div className="py-10">
       <div className="wrapper flex flex-col gap-5 justify-center items-center">
