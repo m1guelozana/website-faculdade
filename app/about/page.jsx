@@ -43,7 +43,7 @@ const page = () => {
       description: "I'm a 19-year-old from Curitiba, currently working as an administrative assistant and studying Analysis and Systems Development at UniCuritiba. What motivates me to study in my chosen field is my aptitude for problem-solving and my love of digital technology.",
     },
     {
-      image: '/assets/pessoas_trabalho/Luiz claudiio.jpg',
+      image: 'public/assets/pessoas_trabalho/Luiz claudiio.jpg',
       name: 'Luiz Cláudio',
       description: "I am 41 years old, and I was born and raised in Belo Horizonte, MG. I work in logistics at a transport company. I'm studying Logistics at UNA in Contagem, MG.",
     },
