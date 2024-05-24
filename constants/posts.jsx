@@ -88,8 +88,8 @@ export const posts = [
     id: 4,
     featured: true,
     image_url: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-    tags: ["Environment"],
-    title: "Environment monitoring",
+    tags: ["Enviroment"],
+    title: "Enviroment monitoring",
     publishDate: "May 23, 2024",
     paragraphs: [
         "Machine learning offers exceptional capabilities for analyzing and predicting natural resource management. Predictive models are crucial because they can be trained using historical data on water usage, climate patterns, and agricultural activity to predict future resource needs and identify potential crises. Thompson and Reis emphasized that using supervised learning algorithms to optimize agricultural irrigation systems can not only improve water use efficiency but also increase agricultural yields. These systems can precisely adjust irrigation based on soil moisture, weather forecasts, and specific crop types, demonstrating how machine learning can drive smarter water use.",
