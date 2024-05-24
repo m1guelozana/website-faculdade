@@ -1,5 +1,3 @@
-import ReactMarkdown from 'react-markdown';
-
 export const posts = [
   {
     id: 1,
