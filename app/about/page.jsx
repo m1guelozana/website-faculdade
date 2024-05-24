@@ -58,9 +58,6 @@ const page = () => {
       description: "I was born in Rio de Janeiro, RJ, and I am 19 years old. I used to compete with Alpha Byte in robotics, and I have a strong enthusiasm for technology. Since August 2023, I have been employed at Miceli Sociedade de Advogados as a Python Backend Developer and Web Scraper. In addition, I founded Pypehub, my own startup. My passion for technology and my desire to learn more about it have led me to pursue System Analysis and Development at IBMR starting in 2023. I'm grateful to everyone!",
     },
   ];
-
-  const vai_tomar_no_cu = True;
-
   return (
     <div className="py-10">
       <div className="wrapper flex flex-col gap-5 justify-center items-center">
