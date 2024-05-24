@@ -9,8 +9,8 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Tech Pulse",
-  description: "Tech Blog",
+  title: "Machine Learning",
+  description: "Machine Learning",
 };
 
 export default function RootLayout({ children }) {
