@@ -24,6 +24,7 @@ export const posts = [
 
       "Machine learning powers many of the services and applications we use daily, from recommendation systems on streaming platforms to voice assistants on our phones. It's an ever-evolving field that continues to push the boundaries of what machines can do.",
     ],
+    features: true,
     tags: ["artificial intelligence"],
     publishDate: "May 23, 2024",
   },
@@ -58,6 +59,7 @@ export const posts = [
       "Um robô que usa visão computacional para navegar em seu ambiente é um exemplo de IA.",
       "Um sistema que usa aprendizado de máquina para identificar spam em emails é um exemplo de ML.",
     ],
+    features: true,
     tags: ["artificial intelligence"],
     publishDate: "May 23, 2024",
   },
@@ -81,11 +83,13 @@ export const posts = [
     "Spotify uses machine learning in several areas, including personalized music recommendations, automatic playlists, analyzing audio data to identify musical characteristics, and other features.",
     
   ],
+    features: true,
     tags: ["artificial intelligence"],
     publishDate: "May 23, 2024",
   },
   {
     id: 4,
+    features: true,
     image_url: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
     tags: ["Environment"],
     title: "Environment monitoring",
